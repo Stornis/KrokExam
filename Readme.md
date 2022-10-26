@@ -5,3 +5,7 @@
 2. Commit F
 >>>>>>> branchF
 3. Commit C
+4. Commit D
+===========
+===========
+===========
